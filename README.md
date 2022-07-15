@@ -43,15 +43,15 @@ Download finetuning checkpoint [here](https://drive.google.com/file/d/13qHTndeqr
 
 ## Code
 ### Reproduce Testing Results<br>
+Run the following scripts with the finetuning checkpoint to replicate the navigation performance reported in the paper:
 ```
 bash run/test_agent.sh 0
 ```
-
 ### Quickly Start<br>
+Load the adversarial training checkpoint to perform finetuning:
 ```
 bash run/quick_start.sh 0
 ```
-
 ### Four-stage Training<br>
 ```
 bash run/pretrain.sh 0
