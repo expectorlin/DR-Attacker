@@ -36,6 +36,11 @@ Download R2R navigation data added target words and candidate substitution words
 <br>
 Download object word vocabulary.
 
+### Trained Network weights
+Download adversarial training checkpoint.
+<br>
+Download finetuning checkpoint.
+
 ## Code
 ### Reproduce Testing Results<br>
 Coming soon
