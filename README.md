@@ -32,9 +32,9 @@ unzip ResNet-152-imagenet.zip
 ```
 Download [R2R augmentation data](http://people.eecs.berkeley.edu/~ronghang/projects/speaker_follower/data_augmentation/R2R_literal_speaker_data_augmentation_paths.json) from [speaker-follower](https://github.com/ronghanghu/speaker_follower).
 <br>
-Download R2R navigation data added target words and candidate substitution words.
+Download R2R navigation data added target words and candidate substitution words [here](https://drive.google.com/file/d/16cvB2HyOU1zycsndads6FCl3DERNkBVi/view?usp=sharing).
 <br>
-Download object word vocabulary.
+Download object word vocabulary [here](https://drive.google.com/file/d/1GIlqvRfmnoO6617BcMtClzSj8t6hl7nR/view?usp=sharing).
 
 ### Trained Network weights
 Download adversarial training checkpoint.
