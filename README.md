@@ -37,7 +37,19 @@ Download R2R navigation data added target words and candidate substitution words
 Download object word vocabulary.
 
 ## Code
-Comming soon
+### Reproduce Testing Results<br>
+Coming soon
+
+### Quickly Start<br>
+Coming soon
+
+### Four-stage Training<br>
+```
+bash run/pretrain.sh 0
+bash run/attack.sh 0
+bash run/adv_train.sh 0
+bash run/finetune.sh 0
+```
 
 ## Acknowledgement
 The implementation relies on resources from [EnvDrop](https://github.com/airsplay/R2R-EnvDrop) and [speaker-follower](https://github.com/ronghanghu/speaker_follower). We thank the original authors for their open-sourcing.
