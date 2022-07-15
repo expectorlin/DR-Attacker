@@ -43,10 +43,14 @@ Download finetuning checkpoint [here](https://drive.google.com/file/d/13qHTndeqr
 
 ## Code
 ### Reproduce Testing Results<br>
-Coming soon
+```
+bash run/test_agent.sh 0
+```
 
 ### Quickly Start<br>
-Coming soon
+```
+bash run/quick_start.sh 0
+```
 
 ### Four-stage Training<br>
 ```
